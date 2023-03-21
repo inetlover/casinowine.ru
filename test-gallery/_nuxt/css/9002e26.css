@@ -1,0 +1,1 @@
+.sidebar-left{position:sticky;top:4rem;z-index:1000;height:calc(100vh - 4rem);border:1px solid red;flex:0 0 16.66666667%;max-width:16.66666667%}.article-wrap{flex:0 0 66.66666667%;max-width:66.66666667%}.toc{position:sticky;top:4rem;height:calc(100vh - 4rem);overflow-y:auto;border:1px solid green;flex:0 0 16.66666667%;max-width:16.66666667%}.page__content{width:100%}
