@@ -3,5 +3,5 @@ Allow: /
 Disallow: /503/
 Disallow: /404/
 Disallow: /admin/
-Host: https://tpgidravlika.ru
-Sitemap: https://tpgidravlika.ru/sitemap.xml
+Host: https://casinowine.ru
+Sitemap: https://casinowine.ru/sitemap.xml
